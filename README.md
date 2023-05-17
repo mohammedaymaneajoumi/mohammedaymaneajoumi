@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohammed Aymene El Ajoumi</h1>
 <h3 align="left">Web development student</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"> -->
 
 - 🌱 I’m currently learning **php**
 
